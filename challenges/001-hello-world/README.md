@@ -5,4 +5,10 @@ It is my **First** attempt at making a challenge that involves reverse-engineeri
 
 # Information  
 
-Python Version: 3.14.3
+Python Version: 3.14.3  
+Objective: Obtain the Base** encoded password.  
+
+# Useful resources  
+
+https://pylingual.io/  
+https://github.com/pyinstxtractor/pyinstxtractor-ng/releases
