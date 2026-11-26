@@ -1,4 +1,8 @@
 # README  
 
 This is a *Python* reverse-engineering challenge.  
-It is my **First** attempt at making a challenge that involves reverse-engineering.
+It is my **First** attempt at making a challenge that involves reverse-engineering.  
+
+# Information  
+
+Python Version: 3.14.3
